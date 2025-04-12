@@ -1,1 +1,4 @@
 create a codespace
+git clone https://github.com/eystsen/pentestlab.git
+cd pentestlab
+zphister.sh
